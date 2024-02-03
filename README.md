@@ -6,7 +6,7 @@ This project is designed to help a business keep track of an ecommerce platform.
 You can use this application to get, create, modify and delete items from these tables, but there is currently no front end that it's connected to so it must be accessed through a program that allows you to make server requestss. I used Insomnia, because I literally don't know anything else and it seems to work pretty noice, if I do say so myself. Also, my cat Porkchop agrees.
 
 To watch it in action, check out this video on Google Drive:
-https://drive.google.com/file/d/1WdOkAQKBSoXd49XnKktSZGnAw_iX5RW8/view?usp=sharing
+https://drive.google.com/file/d/1zfXvpEYk9v3xDZ8bE7vWOUhRwKZnLb4Y/view?usp=sharing
 
 ## Table of Contents (Optional)
 
